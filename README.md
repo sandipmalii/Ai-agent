@@ -1,12 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 AI Agent – Smart Code Reviewer Built with Next.js & GPT-4o
 
-## Getting Started
+In this project, you’ll build an **AI agent** that acts like a senior engineer — reviewing your code for **bugs**, **best practices**, and **suggested improvements** using **GPT-4o-mini** and modern web tech.
 
-First, run the development server:
+---
+
+## 🚀 What This Project Covers
+
+* ✅ **AI-powered code review** and contextual suggestions
+* 🔁 **Real-time, reactive workflows** with Convex
+* 🎨 **Modern, responsive UI** using Next.js 15 and Tailwind CSS
+* 🛡 **Fully type-safe development** with TypeScript + Zod
+* 💡 **Syntax highlighting** and clean code formatting
+
+---
+
+## 📚 What I Have Learn
+
+* **Next.js 15 App Router** – server components, API routes, and server actions
+* **React 19** – interactive, reusable UI components
+* **GPT-4o-mini** – fast, intelligent code feedback with embeddings
+* **OpenAI SDK** – powering AI agents with persistent memory
+* **Shadcn UI** – beautiful and accessible design components
+* **Convex** – reactive backend for real-time agentic workflows
+* **TypeScript** – enhanced static typing for better developer experience
+* **Zod** – validating AI input/output with schemas
+* **Tailwind CSS v4** – utility-first CSS with upgrade guidance
+* **Vercel Deployment** – seamless production-ready setup
+
+---
+
+## 🛠 Getting Started
+
+Install dependencies and run the development server:
 
 ```bash
+npm install
 npm run dev
-# or
+```
+
+Or with your preferred package manager:
+
+```bash
 yarn dev
 # or
 pnpm dev
@@ -14,24 +48,32 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit [http://localhost:3000](http://localhost:3000) to view your app.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Start editing by modifying `app/page.tsx`. The page auto-refreshes on save.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📦 Deployment
 
-To learn more about Next.js, take a look at the following resources:
+This app is ready for deployment on **Vercel**. Push your changes and deploy instantly.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* [Deploy to Vercel](https://vercel.com/new?utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📎 Related Tools & Docs
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* [Next.js Documentation](https://nextjs.org/docs)
+* [Learn Next.js](https://nextjs.org/learn)
+* [Convex Documentation](https://docs.convex.dev)
+* [OpenAI SDK](https://platform.openai.com/docs)
+* [Tailwind CSS Docs](https://tailwindcss.com/docs)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Ai-agent
+---
+
+## 📢 Tags
+
+`#nextjs15` `#ai` `#aiagent` `#reactjs` `#javascript` `#convex` `#openai` `#coding` `#tutorial` `#beginner` `#programming`
+
+
